@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["chakra", "Roboto", "Zlatar"],
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {}
+}
